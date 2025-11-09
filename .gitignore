@@ -3,6 +3,7 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+*.npz
 survey_strategy/temp/*
 
 # C extensions
