@@ -3,6 +3,8 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+survey_strategy/temp/*
+
 # C extensions
 *.so
 
